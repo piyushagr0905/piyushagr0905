@@ -23,9 +23,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/piyush-agarwal"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/piyushagr0905"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+<a href="www.linkedin.com/in/piyush-agarwal-902045348"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<a href="agarwallapiyush27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
