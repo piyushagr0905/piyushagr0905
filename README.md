@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack + AI Projects**
-- 🌱 I’m currently learning **System Design & Advanced DSA**
-- 👯 I’m looking to collaborate on **Open Source & Startup Ideas**
-- 💬 Ask me about **React, Node, Python, AI**
-- ⚡ Fun fact: **I build • ship • iterate**
+- 🔭 Currently working on **Full Stack + AI Projects**
+- 🌱 Learning **System Design, Advanced DSA & Scalable Architectures**
+- 👯 Open to collaborate on **Open Source, AI Tools & Startup Ideas**
+- 💬 Ask me about **React, Node.js, MongoDB, Python, AI**
+- ⚡ Fun fact: **I believe in Build • Ship • Improve 🚀**
 
 ---
 
@@ -33,9 +33,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vercel,firebase,linux" />
-
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,git,github,vercel,firebase,linux,vscode" />
 </p>
 
 ---
@@ -43,12 +41,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piyush-agarwal&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-agarwal&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piyushagr0905&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushagr0905&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-agarwal&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushagr0905&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,7 +54,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/piyush-agarwal/piyush-agarwal/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/piyushagr0905/piyushagr0905/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -64,7 +62,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush-agarwal&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushagr0905&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -72,7 +70,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=piyush-agarwal&theme=tokyonight&row=1&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=piyushagr0905&theme=tokyonight&row=1&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -80,13 +78,19 @@
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=piyush-agarwal&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=piyushagr0905&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## ⭐ Quote
+## ⭐ Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+✨ <b>“Code. Create. Contribute. Repeat.”</b> ✨
 </p>
